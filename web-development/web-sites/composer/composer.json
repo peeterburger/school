@@ -1,4 +1,6 @@
 {
     "name": "stburpet/composer",
-    "require": {}
+    "require": {
+        "components/jquery": "^3.3"
+    }
 }
