@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_hello_world">HelloWorld</string>
+    <string name="lbl_helloWorld_content">Hello, World!</string>
+</resources>
