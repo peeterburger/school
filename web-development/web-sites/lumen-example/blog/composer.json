@@ -1,0 +1,6 @@
+{
+    "name": "stburpet/lumen-example",
+    "require": {
+        "laravel/lumen-installer": "^1.0"
+    }
+}
